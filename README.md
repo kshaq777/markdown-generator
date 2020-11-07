@@ -1,5 +1,7 @@
  # Markdown Generator 
   ![License](https://img.shields.io/badge/license-MIT-green)
+  * [Example File](./assets/example_README.md)
+  * [Example Video](./assets/mdgenerator_screencast.webm)
 
   ## Description
    Dynamically generate README files at the command line. I used this app to make the one you're reading now!

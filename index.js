@@ -14,7 +14,7 @@ function init() {
     inquirer.prompt(questions).then(questions => {
         let x = md(questions);
         // writeToFile('test.txt', x);
-        fs.writeFile('README.md', x, function(){});
+        fs.writeFile('example_README.md', x, function(){});
         
     })
 
